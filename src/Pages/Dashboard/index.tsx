@@ -151,7 +151,7 @@ export default function Dashboard() {
         </TableContainer>
       ) : (
         <center>
-          <Text fontSize="xl">There are currently no supervisors!</Text>
+          <Text fontSize="xl">There are currently no supervisors!!</Text>
         </center>
       )}
     </>
